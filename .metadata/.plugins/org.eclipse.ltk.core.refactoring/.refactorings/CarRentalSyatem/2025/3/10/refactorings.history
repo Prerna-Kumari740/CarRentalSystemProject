@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.jts.crs.CustomerClass.java&apos; to &apos;Customer.java&apos;&#x0D;&#x0A;- Original project: &apos;CarRentalSyatem&apos;&#x0D;&#x0A;- Original element: &apos;com.jts.crs.CustomerClass.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.jts.crs.Customer.java&apos;" description="Rename compilation unit &apos;CustomerClass.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.jts.crs{CustomerClass.java" name="Customer.java" references="false" stamp="1740986163738" version="1.0"/>
+</session>
